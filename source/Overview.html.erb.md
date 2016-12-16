@@ -4,9 +4,9 @@ first_published: October 2002
 layout: main
 ---
 
-This guide outlines activities to help you integrate accessibility throughout the web production process. This applies to individual projects and on an organizational level. These activities are not necessarily carried out in sequence, and are ideally repeated over time to continually raise the level of accessibility capability.
+Ce guide décrit les activités qui vous aideront à intégrer l'accessibilité tout au long du cycle de production Web. Cela s'applique à des projets individuels et à des projets d'entreprises. Ces activités ne sont pas nécessairement réalisées dans un ordre séquentiel, et sont idéalement répétées au fil du temps pour augmenter constamment le niveau d'accessibilité.
 
-{::nomarkdown}<%= link_to "Web Accessibility First Aid: Approaches for Interim Repairs", (w3url '/WAI/impl/improving') %>{:/}, provides guidance on more immediate remediation of accessibility barriers.
+{::nomarkdown}<%= link_to "Web Accessibility First Aid: Approaches for Interim Repairs", (w3url '/WAI/impl/improving') %>{:/}, fournit des conseils ou des solutions correctives pour lever obstacles à l'accessibilité. 
 
 {::nomarkdown}
 <ul class="grid">
